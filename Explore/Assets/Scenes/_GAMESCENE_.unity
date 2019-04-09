@@ -397,7 +397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36cd2e4ddb6024840946798ae78e0e3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  drawMode: 1
+  drawMode: 0
   mapWidth: 100
   mapHeight: 100
   noiseScale: 41.57

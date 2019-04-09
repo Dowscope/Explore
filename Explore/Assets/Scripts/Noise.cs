@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿/* This is the Noise Generator */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
